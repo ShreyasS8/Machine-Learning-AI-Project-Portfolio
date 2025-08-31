@@ -62,13 +62,6 @@ Below are all public repos organized by theme. Click the project title to open t
 3. Install deps: `pip install -r requirements.txt` or `conda env create -f environment.yml` if present
 4. Check the repo README for dataset download links and quickstart commands
 
----
-
-## Contributing & Contact
-
-Want to collaborate or request reproducible artifacts (Dockerfile, Colab notebook, or trained weights)? Open an issue or contact me at **[your.email@example.com](mailto:your.email@example.com)**.
-
----
 
 ## License
 
