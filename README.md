@@ -1,6 +1,6 @@
 # Shreyas Shimpi — Machine Learning & AI Projects
 
-**Location:** India · **Email:** [your.email@example.com](shreyas.shimpi08@gmail.com) · **GitHub:** [https://github.com/ShreyasS8](https://github.com/ShreyasS8) · **LinkedIn:** [https://linkedin.com/in/yourprofile](www.linkedin.com/in/shreyas-shimpi-40843615a)
+**Location:** India · **Email:** [shreyas.shimpi08@gmail.com](shreyas.shimpi08@gmail.com) · **GitHub:** [https://github.com/ShreyasS8](GITHUB) · **LinkedIn:** [www.linkedin.com/in/shreyas-shimpi-40843615a](www.linkedin.com/in/shreyas-shimpi-40843615a)
 
 ---
 
