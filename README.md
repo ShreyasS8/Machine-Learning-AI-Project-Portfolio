@@ -1,10 +1,4 @@
-# Shreyas Shimpi — Machine Learning Engineer (Final Year)
-
-<p align="center">
-  <a href="https://github.com/ShreyasS8"><img src="https://github-readme-stats.vercel.app/api?username=ShreyasS8&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/></a>
-</p>
-
-**Location:** India · **Email:** [your.email@example.com](mailto:your.email@example.com) · **GitHub:** [https://github.com/ShreyasS8](https://github.com/ShreyasS8) · **LinkedIn:** [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+**Location:** India · **Email:** [your.email@example.com](mailto:your.email@example.com) · **GitHub:** [https://github.com/ShreyasS8](https://github.com/ShreyasS8) · **LinkedIn:** [https://linkedin.com/in/yourprofile](www.linkedin.com/in/shreyas-shimpi-40843615a)
 
 ---
 
